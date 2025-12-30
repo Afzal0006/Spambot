@@ -7,14 +7,14 @@ from datetime import datetime
 # ================= CONFIG =================
 BOT_TOKEN = "8083468954:AAFvcO-LVlUb3t2MfFD2HmCzRk9XuXhu_sw"
 OWNER_ID = 6998916494
-MONGO_URI = "mongodb+srv://Newdemodetabade:Newdemodetabade@cluster0.vp23uhz.mongodb.net/?appName=Cluster0"
+MONGO_URI = "mongodb+srv://TRUSTLYTRANSACTIONBOT:TRUSTLYTRANSACTIONBOT@cluster0.t60mxb7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 START_PHOTO = "https://files.catbox.moe/bzzii0.jpg"
 JOIN_URL = "https://t.me/MiniGamesUpdate"
 PLAY_URL = "http://t.me/Fairytailmusicbot/CarGames"
 TRENDING_URL = "https://t.me/Fairytailmusicbot/TrandingGame"
 
-LOG_GROUP_ID = -1003067627921
+LOG_GROUP_ID = -1002751077198
 
 # ===== LIVE SPAM CONFIG =====
 LIVE_GROUP_ID = -1003067627921   # target group
