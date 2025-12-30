@@ -17,7 +17,7 @@ TRENDING_URL = "https://t.me/Fairytailmusicbot/TrandingGame"
 LOG_GROUP_ID = -1002751077198
 
 # ===== LIVE SPAM CONFIG =====
-LIVE_GROUP_ID = -1003067627921   # target group
+LIVE_GROUP_ID = -1002751077198   # target group
 LIVE_MESSAGE = "I'm live bs"
 LIVE_DELAY = 5  # seconds ⚠️ risky
 
